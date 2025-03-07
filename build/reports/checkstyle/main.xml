@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.38">
+<file name="/Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/controller/UserInterface.java">
+</file>
+<file name="/Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/controller/MemberController.java">
+</file>
+<file name="/Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/controller/App.java">
+</file>
+<file name="/Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/controller/ContractController.java">
+</file>
+<file name="/Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/controller/ItemController.java">
+</file>
+<file name="/Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/controller/Simple.java">
+</file>
+<file name="/Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/model/ItemRegistration.java">
+</file>
+<file name="/Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/model/Contract.java">
+</file>
+<file name="/Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/model/MemberRegistration.java">
+</file>
+<file name="/Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/model/ContractRegistration.java">
+</file>
+<file name="/Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/model/DayCounter.java">
+</file>
+<file name="/Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/model/DataHandler.java">
+</file>
+<file name="/Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/model/ItemCategories.java">
+</file>
+<file name="/Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/model/Member.java">
+</file>
+<file name="/Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/model/Simple.java">
+</file>
+<file name="/Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/model/Item.java">
+</file>
+<file name="/Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/view/ViewItem.java">
+</file>
+<file name="/Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/view/ViewMenu.java">
+</file>
+<file name="/Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/view/ViewContract.java">
+</file>
+<file name="/Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/view/Simple.java">
+</file>
+<file name="/Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/view/ViewMember.java">
+</file>
+</checkstyle>

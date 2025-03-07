@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CodeQualityTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-11-19T19:25:36" hostname="Ooos-MacBook-Air.local" time="0.161">
+  <properties/>
+  <testcase name="codeQuality()" classname="CodeQualityTests" time="0.161"/>
+  <system-out><![CDATA[0 CheckStyle Issues in /Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/controller/UserInterface.java
+0 CheckStyle Issues in /Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/controller/MemberController.java
+0 CheckStyle Issues in /Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/controller/App.java
+0 CheckStyle Issues in /Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/controller/ContractController.java
+0 CheckStyle Issues in /Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/controller/ItemController.java
+0 CheckStyle Issues in /Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/controller/Simple.java
+0 CheckStyle Issues in /Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/model/ItemRegistration.java
+0 CheckStyle Issues in /Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/model/Contract.java
+0 CheckStyle Issues in /Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/model/MemberRegistration.java
+0 CheckStyle Issues in /Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/model/ContractRegistration.java
+0 CheckStyle Issues in /Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/model/DayCounter.java
+0 CheckStyle Issues in /Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/model/DataHandler.java
+0 CheckStyle Issues in /Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/model/ItemCategories.java
+0 CheckStyle Issues in /Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/model/Member.java
+0 CheckStyle Issues in /Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/model/Simple.java
+0 CheckStyle Issues in /Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/model/Item.java
+0 CheckStyle Issues in /Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/view/ViewItem.java
+0 CheckStyle Issues in /Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/view/ViewMenu.java
+0 CheckStyle Issues in /Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/view/ViewContract.java
+0 CheckStyle Issues in /Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/view/Simple.java
+0 CheckStyle Issues in /Users/oooooo/Movies/UML - Assignment 2 Repo/a2/app/src/main/java/view/ViewMember.java
+0 FindBugs Issues in model/Contract.java
+0 FindBugs Issues in model/DataHandler.java
+0 FindBugs Issues in view/ViewMenu.java
+0 FindBugs Issues in model/ItemRegistration.java
+0 FindBugs Issues in view/ViewItem.java
+0 FindBugs Issues in model/ItemCategories.java
+0 FindBugs Issues in view/ViewMember.java
+0 FindBugs Issues in view/ViewContract.java
+0 FindBugs Issues in controller/MemberController.java
+0 FindBugs Issues in controller/UserInterface.java
+0 FindBugs Issues in model/Member.java
+0 FindBugs Issues in model/DayCounter.java
+0 FindBugs Issues in model/MemberRegistration.java
+0 FindBugs Issues in controller/App.java
+1 FindBugs Issues in controller/ContractController.java
+text:lines: 29-106 
+new controller.ContractController(ViewContract, UserInterface, DataHandler) may expose internal 
+  representation by storing an externally mutable object into ContractController.viewContract 
+May expose internal representation by incorporating reference to mutable object 
+This code stores a reference to an externally mutable object into the internal representation of the 
+  object. If instances are accessed by untrusted code, and unchecked changes to the mutable object 
+  would compromise security or other important properties, you will need to do something different. 
+  Storing a copy of the object is better approach in many situations.
+
+0 FindBugs Issues in model/Simple.java
+0 FindBugs Issues in view/Simple.java
+0 FindBugs Issues in model/Item.java
+0 FindBugs Issues in model/ContractRegistration.java
+0 FindBugs Issues in controller/Simple.java
+0 FindBugs Issues in controller/ItemController.java
+]]></system-out>
+  <system-err><![CDATA[Findbugs xml file not found: ./build/reports/spotbugs/spotbugs.xml
+Consider making code change to initiate regeneration of the xml (will try backup)
+Restored xml from backup: ./build/reports/spotbugs/spotbugs_bak.xml
+]]></system-err>
+</testsuite>

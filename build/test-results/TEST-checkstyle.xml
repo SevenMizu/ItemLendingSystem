@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite package="org.checkstyle" time="0" tests="21" errors="0" name="checkstyle">
+<testcase time="0" name="controller/UserInterface.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="controller/MemberController.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="controller/App.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="controller/ContractController.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="controller/ItemController.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="controller/Simple.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="model/ItemRegistration.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="model/Contract.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="model/MemberRegistration.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="model/ContractRegistration.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="model/DayCounter.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="model/DataHandler.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="model/ItemCategories.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="model/Member.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="model/Simple.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="model/Item.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="view/ViewItem.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="view/ViewMenu.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="view/ViewContract.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="view/Simple.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="view/ViewMember.java" classname="CheckStyle Issues">
+</testcase></testsuite>
